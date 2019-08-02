@@ -1,4 +1,4 @@
-package com.studyone;
+package com.commons.studyone;
 
 /**
  * 这是是测试二叉树的类，二叉树的功能比较多，junit测试写的麻烦，故写一个测试类。

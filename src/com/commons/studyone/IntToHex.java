@@ -1,4 +1,4 @@
-package com.studyone;
+package com.commons.studyone;
 import org.junit.Test;
 
 /**

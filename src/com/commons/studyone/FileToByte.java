@@ -1,4 +1,4 @@
-package com.studyone;
+package com.commons.studyone;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

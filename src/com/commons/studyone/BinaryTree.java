@@ -1,4 +1,4 @@
-package com.studyone;
+package com.commons.studyone;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
